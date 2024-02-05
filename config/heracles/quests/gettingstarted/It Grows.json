@@ -4,7 +4,7 @@
   ],
   "tasks": {
     "it grows task": {
-      "title": "It grows!",
+      "title": "它在生長!",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -74,7 +74,7 @@
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           0,
           -45
@@ -90,7 +90,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/cblossoms.png",
     "title": {
-      "translate": "It Grows"
+      "translate": "它在生長"
     }
   },
   "settings": {

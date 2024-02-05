@@ -36,9 +36,9 @@
     },
     "description": [
       "<hr/>",
-      "  In due time, a backpack's capaciousness will be a mere fraction of what you will be able to carry on hand with other means. As you get stronger and develop more and more, the capabilities you will reach will be mind bending.",
+      "  在適當的時候，一個背包的容量將只是你能夠用其他方式隨手攜帶的一小部分。隨著你變得更強大和發展更多，你將達到的能力將會令人難以置信。",
       "<br/>",
-      "  Power on, /b/Player/b/.",
+      "  加油，/b/玩家/b/",
       "<columns>",
       "  <column>",
       "    <item id=\"bankstorage:bank_5\" scale=\"4\"> </item>",
@@ -50,7 +50,7 @@
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           -50,
           100
@@ -66,7 +66,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "Portable Mass"
+      "translate": "便攜式質譜儀"
     }
   },
   "settings": {

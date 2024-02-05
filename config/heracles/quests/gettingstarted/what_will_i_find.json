@@ -38,24 +38,24 @@
     },
     "description": [
       "<hr/>",
-      "  The world is vast with many civilizations you may stumble into: ancient or young, ceased or vital, surviving or thriving.",
+      "  這個世界很廣闊，你可能會遇到許多文明：古老的或年輕的，消亡的或活躍的，生存的或繁榮的。",
       "<br/>",
-      "  Many tombs and graveyards mark the lands and house the dead, airships of men and of aliens float in the clouds, and debris from space and beyond have fallen and lodged in the terrain. Even small camps and settlements are to be found within the caverns, and dungeons filled with hostiles, and ||magical structures|| overflowing with ||color|| can be found above and below the horizon.",
+      "  許多墳墓和墓地標記了這片土地，並安置了死者，人類和外星人的飛艇在雲層中飄浮，來自太空和更遠處的碎片墜落並陷入地形。即使是在洞穴裡，也可以找到一些小營地和定居點，還有充滿敵意的地牢，和色彩繽紛的魔法結構，可以在地平線的上方和下方找到。",
       "<br/>",
       "<columns template=\"90% 10%\">",
       "  <column>",
-      "  Your main focus at this point in time might be to locate a biome that --you-- want to settle in. For this, I advise you create a /a/Nature's Compass/a/. It will direct you to any biome you may desire",
+      "  您此時的主要目標可能是找到一個您想定居的生態區。為此，我建議您製作一個自然指南針。它會指引您到任何您想去的生態區。",
       "  </column>",
       "  <column>",
       "<item id=\"naturescompass:naturescompass\" scale=\"2\"> </item>",
       "  </column>",
       "</columns>",
       "<br/>",
-      "  I would manifest a backpack for you, but my powers don't stretch that far. The most I can do right now is a few sections of leather to help you make the whole thing. Here, please use this small gift wisely.",
+      "  我想要為您製造一個背包，但我的力量沒有那麼大。我現在能做的最多就是幫您準備一些皮革，讓您自己做一個完整的東西。這裡，請明智地使用這個小禮物。",
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           -100,
           50
@@ -71,7 +71,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "What will I find?"
+      "translate": "我會找到什麼？"
     }
   },
   "settings": {

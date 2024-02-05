@@ -36,11 +36,11 @@
     },
     "description": [
       "<hr/>",
-      "## Replication",
+      "## 複製過程",
       "<br/>",
-      "  You will encounter plentiful difficulties in your attempt to raise a factory from the ground up. Milestones might seem apparent, even leaving the floor for the sky.",
+      "  您在嘗試從零開始建立一個工廠的過程中，將會遇到許多困難。里程碑可能看似明顯，甚至離開地面飛向天空。",
       "<br/>",
-      "  But... your end goal will turn you into a god--a guardian that will overlook this domain with infinite power at its fingertips. Will you make it there? Only time will tell.",
+      "  但是……您的最終目標將使您成為一個神——一個擁有無限力量的守護者，俯視這個領域。您能否到達那裡？只有時間能告訴您。",
       "<columns>",
       "  <column>",
       "<item id=\"modern_industrialization:replicator\" scale=\"4\"> </item>",
@@ -55,7 +55,7 @@
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           50,
           -100
@@ -71,7 +71,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "Replication"
+      "translate": "複製過程"
     }
   },
   "settings": {

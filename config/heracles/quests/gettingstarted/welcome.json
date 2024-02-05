@@ -38,28 +38,28 @@
     },
     "description": [
       "<hr/>",
-      "  I go by ||Winstyl||.",
+      "  我叫 ||Winstyl||",
       "<br/>",
-      "  I wish to assist you in availing yourself of this world and its considerable resources to achieve the loftiest of your dreams and ambitions.",
+      "  我希望能協助您利用這個世界和它豐富的資源，實現您最高的夢想和抱負。",
       "<br/>",
       "<columns template=\"90% 10%\">",
       "  <column>",
-      "  Your journey towards --/e/Completionist/e/-- will encompass intricate and convoluted factories; manifold magics, alchemies, and bewitchments; resolute explorations in the faces of bounty and menace, spanning thousands of kilometers.",
+      "  您朝著 --/e/完成者/e/-- 的旅程將包含錯綜複雜的工廠；多種多樣的魔法、煉金術和咒語；在千里之外的賞罰面前堅定地探索。",
       "  </column>",
       "  <column>",
       "    <item id=\"kubejs:completionist\" scale=\"2\"> </item>",
       "  </column>",
       "</columns>",
       "<br/>",
-      "  And, with some measure of fortune and fortitude, erecting your --own-- settlement (ostentatious or unaffected?) where you can relax, tea in hand, imbibing the ambience of your preferred biome and relishing (or ruing?) the reach of your dominion.",
+      "   而且，有了一些運氣和毅力， 您可以建立--自己--的定居點（炫耀還是低調？），在那裡您可以放鬆，手握茶杯，享受您喜歡的生態區的氛圍，並欣賞（或後悔？）您的領土範圍。",
       "<br/>",
-      "  However, preparations are in order.",
+      "  不過，準備工作還在進行中。",
       "<hr/>",
       "<task task=\"\" quest=\"\" />",
       "<reward reward=\"\" quest=\"\" />"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           0,
           45
@@ -75,7 +75,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/cblossoms.png",
     "title": {
-      "translate": "Let the Journey Begin "
+      "translate": "讓旅程開始吧"
     }
   },
   "settings": {

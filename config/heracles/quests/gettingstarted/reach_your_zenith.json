@@ -41,15 +41,15 @@
     },
     "description": [
       "<hr/>",
-      "## My Zenith?",
+      "## 我的頂峰?",
       "<br/>",
-      "  That's right. Reach --your-- /d/zenith/d/. The mechanics of this world are so intricate but powerful to the point you can completely reinvent yourself. The number of /5/enchantments/5/ available is enormous, allowing you to conquer the world.",
+      "  沒錯。達到–你的–/d/頂峰/d/。這個世界的機制是如此複雜而強大，以至於你可以完全改造自己。可用的/5/附魔/5/數量是巨大的，讓你可以征服世界。",
       "<br/>",
-      "  Do your gardens look a little... short? Well just wait, cause /2/sugarcane/2/, /a/bamboo/a/ and /2/cactus/2/ will grow extremely tall! Limits are boring!",
+      "  你的花園看起來有點……矮？別急，因為/2/甘蔗/2/、/a/竹子/a/和/2/仙人掌/2/會長得非常高！極限是無聊的!",
       "<br/>",
       "<columns template=\"80% 20%\">",
       "  <column>",
-      "  Brewing potions is a great way to get into the spirit of becoming powerful by the power of /b/alchemy/b/! Brew up a storm and have a potion for every day of the week!",
+      "  釀造藥水是一種進入/b/煉金術/b/的力量讓自己變得強大的好方法！釀造出一場風暴，並且每天都有一種藥水!",
       "  </column>",
       "  <column>",
       "      <item id=\"minecraft:brewing_stand\" scale=\"2\"> </item>",
@@ -63,13 +63,13 @@
       "    </entity>",
       "  </column>",
       "  <column>",
-      "  Villages will bustle and hum, with so many professions for a villager to ply. They're not the only ones who love to trade. Look out for /3/wandering traders/3/, they might have something special in store for you! Take advantage of this when progressing.",
+      "  村莊將熙熙攘攘，有這麼多的職業讓村民從事。他們不是唯一喜歡交易的人。留意/3/流浪商人/3/，他們可能有一些特別的東西給你！在進步的時候利用這個優勢。",
       "  </column>",
       "</columns>",
       "<br/>",
       "<columns template=\"80% 20%\">",
       "  <column>",
-      "  You will spend hours... no, days... no, --months-- adventuring! The quality of /c/rewards/c/ you can obtain from some of the super strong /4/monsters/4/ that appear in the night will make it all worth it in the end.",
+      "  你將花費數小時……不，數天……不，–數月–冒險！你可以從夜晚出現的一些超強的/4/怪物/4/那裡獲得的/c/獎勵/c/的品質，將使一切都值得。",
       "  </column>",
       "  <column>",
       "    <entity type=\"soulsweapons:withered_demon\">",
@@ -77,11 +77,11 @@
       "  </column>",
       "</columns>",
       "<br/>",
-      "   You can upgrade these rewards with sockets and get special abilities on them. You can use /6/gems/6/ to further augment these --/9/affix/9/-- items. Watch your six, and your one through twelve because you won't know what lurks until it's already too late.",
+      "   你可以用插槽來升級這些獎勵，並且讓它們獲得特殊的能力。你可以使用/6/寶石/6/來進一步增強這些–/9/附加/9/–物品。注意你的六點，和你的一到十二點，因為你不會知道有什麼潛伏在那裡，直到已經太晚了。",
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           50,
           50
@@ -100,7 +100,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "Reach your Zenith!"
+      "translate": "達到你的頂峰!"
     }
   },
   "settings": {

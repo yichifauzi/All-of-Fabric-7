@@ -36,15 +36,15 @@
     },
     "description": [
       "<hr/>",
-      "## Too Much!",
+      "## 太多了！",
       "<br/>",
-      "  Yes, there is a lot to do, but I will let you in on a really helpful feature of this world. Look at your inventory; see the things to the left and right of it? You should see a bunch of items and blocks. That's your /b/Recipe Electronic Interface/b/ or as I will refer to it: **/b/REI/b/**. This is a massive database of everything in your world.",
+      "  是的，這裡有很多事情要做，但我會告訴您這個世界的一個非常有用的功能。看看您的物品欄；左右兩邊有什麼東西？您應該看到一堆物品和方塊。那是您的 /b/食譜電子介面/b/，或者我稱之為：**/b/REI/b/**。這是一個包含您的世界中所有東西的龐大資料庫。",
       "<br/>",
-      "  Your REI, using the electrical signals in your nervous system to power the knowledge center in your brain, displays recipes and uses for items, blocks, tools, armor, plants, foods, entities, structures, special procedures, and more. Use your REI to your advantage as it will be a huge help on your journey.",
+      "  您的 REI，利用您神經系統中的電信號來驅動您大腦中的知識中心，顯示物品、方塊、工具、盔甲、植物、食物、實體、結構、特殊程序等的食譜和用途。利用您的 REI 來獲得優勢，它將是您旅程中的一大助力。",
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           -50,
           -50

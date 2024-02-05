@@ -37,9 +37,9 @@
     },
     "description": [
       "<hr/>",
-      "  This question I wont answer; 'tis a stupid question. Just take these manifestations of matter I might provide to you. Sometimes they won't be just matter but a mix of ||secret|| and ||more secret||.",
+      "  這個問題我不會回答；這是一個愚蠢的問題。你就拿這些我可能提供給你的物質的表現吧。有時候它們不只是物質，而是||秘密||和||更多秘密||的混合。",
       "<br/>",
-      "  Ah, you can't understand that yet. Never mind, carry on with good questions next time.",
+      "  啊，你還不能理解這些。沒關係，下次再提出好一點的問題吧。",
       "<br/>",
       "<columns>",
       "  <column>",
@@ -53,7 +53,7 @@
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           50,
           -1
@@ -69,7 +69,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
     "title": {
-      "translate": "A map how?"
+      "translate": "一張地圖怎麼樣?"
     }
   },
   "settings": {

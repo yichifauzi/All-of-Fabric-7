@@ -21,34 +21,34 @@
     "description": [
       "<hr/>",
       "<br/>",
-      "Ah.",
-      "Here you are.",
+      "啊。",
+      "你在這裡。",
       "<br/>",
-      "What /b/works/b/ will you craft here?",
-      "What /b/end/b/ do you seek?",
-      "The are /6/many/6/.",
+      "你在這裡要創造什麼/b/作品/b/?",
+      "你追求的是什麼/b/目標/b/?",
+      "它們是/6/如此多/6/，",
       "<br/>",
-      "The highest end written is known as --/e/Completionist/e/--.",
+      "最高的目標被稱為 --/e/完美主義者/e/--.",
       "<br/>",
-      "My soul's purpose here is to light the way for seekers.",
+      "我靈魂的目的是為尋求者指引道路。",
       "<br/>",
-      "Questions? You can ask.",
+      "有問題嗎? 你可以問。",
       "<br/>",
-      "I may answer.",
+      "我可能會回答。",
       "<br/>",
       "<br/>",
-      "--Welcome!--",
+      "--歡迎!--",
       "<br/>",
-      "Welcome to the seventh fold of the fabric of all reality.",
+      "歡迎來到所有現實的第七層。",
       "<br/>",
-      "--Welcome to **&&dAll of Fabric 7&&r**!--",
+      "--歡迎來到 **&&dAll of Fabric 7&&r**!--",
       "<br/>",
       "<hr/>",
       "<br/>",
       "<task task=\"WelcomeTask\" quest=\"Welcome!\" />"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           0,
           0
@@ -64,7 +64,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/heptagons.png",
     "title": {
-      "translate": "Welcome!"
+      "translate": "歡迎!"
     }
   },
   "settings": {

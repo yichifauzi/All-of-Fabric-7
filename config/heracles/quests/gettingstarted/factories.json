@@ -68,17 +68,17 @@
     },
     "description": [
       "<hr/>",
-      "## Monopolizing resources?",
+      "## 壟斷資源嗎?",
       "<br/>",
-      "  I hope you don't plan on ruining this world. I understand it's entirely at your disposal and --this-- ||plane of existence|| is a clean slate... but I wouldn't get your hopes up.",
+      "  我希望你不要計劃毀滅這個世界。我明白它完全由你掌控，而這個||存在層面||是一張白紙…但我不會對你抱太大的期望。",
       "<br/>",
-      "  This domain is massive: about 3.6 billion square kilometers cover the surface. Considering too a depth of about 128 meters down from sea level, spanning the entire domain, the amount of resources to collect would be unfathomable. Add in the multiple ||planes of existence|| initially hidden from your current physical one, well... I wish you luck.",
+      "  這個領域是巨大的 :表面覆蓋了約36億平方公里。再考慮到從海平面往下約128米的深度，橫跨整個領域，要收集的資源量是難以想像的。再加上一開始隱藏在你目前的物理層面之外的多個||存在層面||，嗯…我祝你好運。",
       "<br/>",
-      "  Automate to your desire, to the point you no longer need to lift a finger, and any food or machine will be made at your command. Anything is possible as long as you put your mind to it. I can promise you that.",
+      "  按照你的願望自動化，到你不再需要動一根手指的地步，任何食物或機器都會按照你的命令製造。只要你用心去做，一切皆有可能。我可以向你保證這一點。",
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           50,
           -50
@@ -94,7 +94,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
     "title": {
-      "translate": "Factories?"
+      "translate": "工廠?"
     }
   },
   "settings": {

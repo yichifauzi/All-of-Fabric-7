@@ -38,17 +38,17 @@
     },
     "description": [
       "<hr/>",
-      "  With forests and plains of plants at your disposal, food will be no issue in the slightest. There is an absolutely massive range of different fruits, vegetables, grains, meats, and more to make --your-- favorite food.",
+      "  擁有森林和平原上的植物，食物對您來說不是問題。這裡有各種各樣的水果、蔬菜、穀物、肉類等，可以讓您做出--您最喜歡--的食物。",
       "<br/>",
-      "  Or perhaps you will find a new favorite?",
+      "  或許您還會發現一些新的喜好?",
       "<br/>",
-      "  I'll form a little to get you on your way so you don't starve your first few nights. I wish you could eat infinitely.",
+      "  我會給您一點東西，讓您在前幾個晚上不會挨餓。我希望您能無限地享用。",
       "<br/>",
       "<item id=\"croptopia:baked_crepes\" scale=\"4\"/>",
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           100,
           -50
@@ -64,7 +64,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "Sustenance"
+      "translate": "糧食"
     }
   },
   "settings": {

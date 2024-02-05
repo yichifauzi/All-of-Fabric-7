@@ -36,17 +36,17 @@
     },
     "description": [
       "<hr/>",
-      "## You mentioned Magic?",
+      "## 你提到了魔法嗎?",
       "<br/>",
-      "  Magic? That I did. The body and mind form a pathway to many abilities some consider to be unnatural. Most are ignorant about the existence of magic in this world, but once you recognize the methods of activation, power will be at your fingertips.",
+      "  魔法?我確實提到了。身體和心靈形成了一條通往許多被人們視為不自然的能力的道路。大多數人對這個世界上魔法的存在一無所知，但一旦你認識到啟動它們的方法，力量就會掌握在你的指尖。",
       "<br/>",
-      "  There are magics /6/sublime/6/, /4/arcane/4/, or even /d/profane/d/: Magics infused with the colors of the world; magics fueled by the potential energy stored deep within shards of amethyst; Mana-based magic that can transmute and create, take control of one's soul, or achieve near total invincibility.",
+      " 有些魔法是/6/崇高的/6/，/4/神秘的/4/，甚至是/d/邪惡的/d/：這些魔法滲透了世界的色彩；這些魔法由深藏在紫水晶碎片中的潛能能量所驅動；這些魔法基於法力，可以變化和創造，控制靈魂，或達到近乎完全的無敵。",
       "<br/>",
       "<item id=\"minecraft:light_blue_dye\" scale=\"4\"/>",
       "<hr/>"
     ],
     "groups": {
-      "Getting Started": {
+      "入門指南": {
         "position": [
           100,
           0
@@ -62,7 +62,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "Magic"
+      "translate": "魔法"
     }
   },
   "settings": {
