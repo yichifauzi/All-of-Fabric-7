@@ -1,5 +1,20 @@
 # All of Fabric 7 - 1.20.1
 
+This is edit for AOF 7 Translate for Traditional Chinese by dirtTW 
+
+yes, this done by my hobbies  so don't expect up to date!
+
+TODO List
+
+Translate heracles quest book
+- Getting Started (Done)
+- Farmer O' Worlds
+- Storage
+- Ad Astra
+- Modern Industrialization
+- Botania
+- Spectrum
+
 
 # Setup
 Follow the instructions below to get your workspace setup:
